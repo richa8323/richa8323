@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Aspiring CS Engineer on a mission to grow. Currently working on sharpening my skills and solving problems that actually challenge me.<br>I'm looking to collaborate on — Full-Stack projects, AI/ML applications & open source projects that solve real-world problems<br>
 
 
